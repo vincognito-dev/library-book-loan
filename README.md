@@ -1,2 +1,6 @@
-# library-book-loan
-Python CLI for library book loans: request, approve, check out, return, with strict state transitions and safe JSON persistence.
+# Library Book Loan Manager
+
+Python CLI for library book loans.
+
+Run: python3 main.py
+Test: python3 -m unittest discover -s tests -v
